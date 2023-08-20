@@ -6,22 +6,56 @@
 
 body {
     font-family: 'roboto';
-
-
-.nav-logo {
-    font-family: 'raleway';
 }
 
 .nav-logo {
+    font-family: 'raleway extrabold';
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 2em;
+}
+
+.nav-logo {
     text-decoration: none;
 }
 
-.nav-list-item-link {
+.nav-list-item-studio,
+.nav-list-item-portfolio,
+.nav-list-item-contacts {
     text-decoration: none;
 }
 
-.address-lists-item-link {
+.nav-list-item-studio {
+    color: blue;
+    font-family: 'roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2em;;
+}
+
+.nav-list-item-portfolio,
+.nav-list-item-contacts {
+    font-family: 'roboto';
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    line-height: 2em;
+}
+
+.address-lists-item-email {
     text-decoration: none;
+    color: #434455;
+    font family;'roboto';
+    font size: 16px;
+    line height: 2em;
+}
+
+.address-lists-item-tel {
+    text-decoration: none;
+    color: #434455;
+    font family; 'roboto';
+    font size: 16px;
+    line height: 2em;
 }
 
 .hero {
@@ -36,7 +70,67 @@ body {
 }
 
 .hero-section-button {
-
+    color: white;
+    background-color: blue;
+    font-family: 'roboto';
+    font-weight: 800;
+    font-size: 16px;
 }
 
+.main-strategy {
+    font font-family: 'roboto medium';
+    font size: 20px;
+    line height: 24pt;
+}
 
+.para-stretegy {
+    font-size: 16px;
+    line-height: 24pt;
+}
+
+.main-punctuality {
+    font font-family: 'roboto medium';
+    font size: 20px;
+    line height: 24pt;
+}
+
+.para-panctuality {
+    font-size: 16px;
+    line-height: 24pt;
+}
+
+.main-diligence, {
+    font font-family: 'roboto medium';
+    font size: 20px;
+    line height: 24pt;
+}
+
+.para-diligence {
+    font-size: 16px;
+    line-height: 24pt;
+}
+
+.main-technologies {
+    font font-family: 'roboto medium';
+    font size: 20px;
+    line height: 24pt;
+}
+
+.para-technologies {
+    font-size: 16px;
+    line-height: 24pt;
+}
+
+.main-heading-2 {
+    font font-family: 'roboto bold';
+    font size: 36px;
+    text-align: center;
+    line height: 24pt;
+}
+
+.main-heading-3 {
+    font font-family: 'roboto bold';
+    font size: 36px;
+    text-align: center;
+    line height: 24pt;
+}
