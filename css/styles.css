@@ -1,5 +1,6 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Roboto';
+    
 }
 
 .main-header-nav,
@@ -10,5 +11,20 @@ body {
 .main-header-menu-telephone {
     text-decoration: none;
 }
+
+.main-header-nav {
+    font-family: 'Raleway';
+    
+    
+}
+
+.hero {
+    background-color: #2E2F42;
+    width: 1440;
+    height: 600;
+    
+}
+
+
 
 
