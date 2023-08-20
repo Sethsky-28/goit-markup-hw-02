@@ -134,3 +134,54 @@ body {
     text-align: center;
     line height: 24pt;
 }
+
+.footer-logo {
+    text-decoration: none;
+}
+
+.mark-guerrero {
+    font font-family: 'roboto medium';
+    font size: 20px;
+    line height: 2em;
+}
+
+.product-designer {
+    font font-family: 'roboto regular';
+    font size: 16px;
+    line height: 2em;
+}
+
+.tom-ford {
+    font font-family: 'roboto medium';
+    font size: 20px;
+    line height: 2em;
+}
+
+.frontend-developer {
+    font font-family: 'roboto regular';
+    font size: 16px;
+    line height: 2em;
+}
+
+.camila-garcia {
+    font font-family: 'roboto medium';
+    font size: 20px;
+    line height: 2em;
+}
+
+.marketing {
+    font font-family: 'roboto regular';
+    font size: 16px;
+    line height: 2em;
+}
+
+.daniel-wilson {
+    font font-family: 'roboto medium';
+    font size: 20px;
+    line height: 2em;
+}
+
+.user-interface {
+    font font-family: 'roboto regular';
+    font size: 16px;
+    line height: 2em;
