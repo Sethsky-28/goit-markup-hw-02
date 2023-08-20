@@ -1,3 +1,15 @@
+body {
+    font-family: 'roboto';
 
 
+.nav-logo {
+    font-family: 'raleway';
+}
 
+.nav-logo {
+    text-decoration: none;
+}
+
+.nav-list-item-link {
+    text-decoration: none;
+}
