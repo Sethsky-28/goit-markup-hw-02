@@ -1,29 +1,4 @@
-body {
-    font-family: 'Roboto';
-    
-}
 
-.main-header-nav,
-.main-header-studio,
-.main-header-portfolio,
-.main-header-contacts,
-.main-header-menu-email,
-.main-header-menu-telephone {
-    text-decoration: none;
-}
-
-.main-header-nav {
-    font-family: 'Raleway';
-    
-    
-}
-
-.hero {
-    background-color: #2E2F42;
-    width: 1440;
-    height: 600;
-    
-}
 
 
 
