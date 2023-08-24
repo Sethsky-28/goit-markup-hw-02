@@ -173,10 +173,6 @@ body {
     color: #2E2F42;
 }
 
-.footer-logo {
-    text-decoration: none;
-}
-
 .mark-guerrero {
     font font-family: 'roboto';
     font weight: 500;
@@ -240,4 +236,22 @@ body {
     font weight: 400;
     line height: 1.5em;
     color: #434343;
+}
+
+.footer-logo {
+    text-decoration: none;
+}
+
+.footer-para {
+    font font-family: 'roboto';
+    font size: 16px;
+    font weight: 400;
+    line height: 1.5em;
+    color: #F4F4FD;
+}
+
+.footer {
+    background-color: #2E2F42;
+    height: 312;
+    width: 1440;
 }
