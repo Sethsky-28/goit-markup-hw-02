@@ -6,6 +6,7 @@
 
 body {
     font-family: 'roboto';
+    color: #2E2F42;
 }
 
 .web {
@@ -15,8 +16,8 @@ body {
 .nav-logo {
     font-family: 'raleway extrabold';
     font-weight: 800;
-    font-size: 16px;
-    line-height: 2em;
+    font-size: 18px;
+    line-height: 1em;
 }
 
 .nav-logo {
@@ -30,28 +31,30 @@ body {
 }
 
 .nav-list-item-studio {
-    color: blue;
+    color: #4D5AE5;
     font-family: 'roboto';
     font-size: 16px;
-    font-weight: 400;
-    line-height: 2em;;
+    font-weight: 500;
+    line-height: 1.5em;;
 }
 
 .nav-list-item-portfolio,
 .nav-list-item-contacts {
     font-family: 'roboto';
     font-size: 16px;
-    font-weight: 400;
-    color: black;
-    line-height: 2em;
+    font-weight: 500;
+    color: #2E2F42;
+    line-height: 1.5em;
 }
 
 .address-lists-item-email {
     text-decoration: none;
-    color: #434455;
+    color: #2E2F42;
     font family;'roboto';
     font size: 16px;
-    line height: 2em;
+    font weight: 400;
+    font style: normal;
+    line height: 1.5em;
 }
 
 .address-lists-item-tel {
@@ -59,7 +62,9 @@ body {
     color: #434455;
     font family; 'roboto';
     font size: 16px;
-    line height: 2em;
+    font weight: 400;
+    font style: normal;
+    line height: 1.5em;
 }
 
 .hero {
@@ -75,10 +80,11 @@ body {
 
 .hero-section-button {
     color: white;
-    background-color: blue;
+    background-color: #4D5AE5;
     font-family: 'roboto';
-    font-weight: 800;
+    font-weight: 500;
     font-size: 16px;
+    line-height: 1.5em;
 }
 
 .main-strategy {
