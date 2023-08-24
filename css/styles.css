@@ -92,47 +92,67 @@ body {
 }
 
 .main-strategy {
-    font font-family: 'roboto medium';
+    font font-family: 'roboto';
     font size: 20px;
-    line height: 24pt;
+    font weight: 500;
+    line height: 1.25em;
+    color: #2E2F42;
 }
 
 .para-stretegy {
+    font family: 'roboto';
     font-size: 16px;
-    line-height: 24pt;
+    font weight: 400;
+    line-height: 1.5em;
+    color: #434455;
 }
 
 .main-punctuality {
-    font font-family: 'roboto medium';
+    font font-family: 'roboto';
     font size: 20px;
-    line height: 24pt;
+    font weight: 500;
+    line height: 1.25em;
+    color: #2E2F42;
 }
 
 .para-panctuality {
+    font family: 'roboto';
     font-size: 16px;
-    line-height: 24pt;
+    font weight: 400;
+    line-height: 1.5em;
+    color: #434455;
 }
 
 .main-diligence, {
-    font font-family: 'roboto medium';
+    font font-family: 'roboto';
     font size: 20px;
-    line height: 24pt;
+    font weight: 500;
+    line height: 1.25em;
+    color: #2E2F42;
 }
 
 .para-diligence {
+    font family: 'roboto';
     font-size: 16px;
-    line-height: 24pt;
+    font weight: 400;
+    line-height: 1.5em;
+    color: #434455;
 }
 
 .main-technologies {
-    font font-family: 'roboto medium';
+    font font-family: 'roboto';
     font size: 20px;
-    line height: 24pt;
+    font weight: 500;
+    line height: 1.25em;
+    color: #2E2F42;
 }
 
 .para-technologies {
+    font family: 'roboto';
     font-size: 16px;
-    line-height: 24pt;
+    font weight: 400;
+    line-height: 1.5em;
+    color: #434455;
 }
 
 .main-heading-2 {
