@@ -8,15 +8,15 @@ body {
     font-family: 'roboto';
 }
 
+.web {
+    color: #4D5AE5;
+}
+
 .nav-logo {
     font-family: 'raleway extrabold';
     font-weight: 800;
     font-size: 16px;
     line-height: 2em;
-}
-
-.nav-logo ::first-letter {
-    color: #4D5AE5;
 }
 
 .nav-logo {
