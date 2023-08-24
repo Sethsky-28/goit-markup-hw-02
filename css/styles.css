@@ -161,6 +161,7 @@ body {
     font weight: 700;
     text-align: center;
     line height: 2.25em;
+    color: #2E2F42;
 }
 
 .main-heading-3 {
@@ -169,6 +170,7 @@ body {
     font weight: 700;
     text-align: center;
     line height: 2.25em;
+    color: #2E2F42;
 }
 
 .footer-logo {
@@ -176,48 +178,66 @@ body {
 }
 
 .mark-guerrero {
-    font font-family: 'roboto medium';
+    font font-family: 'roboto';
+    font weight: 500;
     font size: 20px;
-    line height: 2em;
+    line height: 1.5em;
+    color: #2E2F42;
 }
 
 .product-designer {
-    font font-family: 'roboto regular';
+    font font-family: 'roboto';
     font size: 16px;
-    line height: 2em;
+    font weight: 400;
+    line height: 1.5em;
+    color: #434343;
+
 }
 
 .tom-ford {
-    font font-family: 'roboto medium';
+    font font-family: 'roboto';
+    font weight: 500;
     font size: 20px;
-    line height: 2em;
+    line height: 1.5em;
+    color: #2E2F42;
 }
 
 .frontend-developer {
-    font font-family: 'roboto regular';
+    font font-family: 'roboto';
     font size: 16px;
-    line height: 2em;
+    font weight: 400;
+    line height: 1.5em;
+    color: #434343;
 }
 
 .camila-garcia {
-    font font-family: 'roboto medium';
+    font font-family: 'roboto';
+    font weight: 500;
     font size: 20px;
-    line height: 2em;
+    line height: 1.5em;
+    color: #2E2F42;
 }
 
 .marketing {
-    font font-family: 'roboto regular';
+    font font-family: 'roboto';
     font size: 16px;
-    line height: 2em;
+    font weight: 400;
+    line height: 1.5em;
+    color: #434343;
 }
 
 .daniel-wilson {
-    font font-family: 'roboto medium';
+    font font-family: 'roboto';
+    font weight: 500;
     font size: 20px;
-    line height: 2em;
+    line height: 1.5em;
+    color: #2E2F42;
 }
 
 .user-interface {
-    font font-family: 'roboto regular';
+    font font-family: 'roboto';
     font size: 16px;
-    line height: 2em;
+    font weight: 400;
+    line height: 1.5em;
+    color: #434343;
+}
