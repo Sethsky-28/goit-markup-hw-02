@@ -47,7 +47,7 @@ body {
     text-decoration: none;
 }
 
-.address-lists-item-email {
+.address-link-email {
     text-decoration: none;
     color: #434455;
     font family;'roboto';
@@ -57,7 +57,7 @@ body {
     line height: 1.5em;
 }
 
-.address-lists-item-tel {
+.address-link-tel {
     text-decoration: none;
     color: #434455;
     font family; 'roboto';
