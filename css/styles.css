@@ -9,12 +9,12 @@ body {
     color: #2E2F42;
 }
 
-.web {
+.iris {
     color: #4D5AE5;
 }
 
 .nav-logo {
-    font-family: 'raleway extrabold';
+    font-family: 'raleway';
     font-weight: 800;
     font-size: 18px;
     line-height: 1em;
@@ -24,27 +24,27 @@ body {
     text-decoration: none;
 }
 
-.nav-list-item-studio,
-.nav-list-item-portfolio,
-.nav-list-item-contacts {
+.nav-item {
     text-decoration: none;
 }
 
-.nav-list-item-studio {
+.nav-link-studio {
     color: #4D5AE5;
     font-family: 'roboto';
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5em;;
+    line-height: 1.5em;
+    text-decoration: none;
 }
 
-.nav-list-item-portfolio,
-.nav-list-item-contacts {
+.nav-link-portfolio,
+.nav-link-contacts {
     font-family: 'roboto';
     font-size: 16px;
     font-weight: 500;
     color: #2E2F42;
     line-height: 1.5em;
+    text-decoration: none;
 }
 
 .address-lists-item-email {
