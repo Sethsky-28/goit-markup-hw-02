@@ -164,3 +164,14 @@ body {
     height: 312;
     width: 1440;
 }
+
+.filter-button-active {
+    border: none;
+    text-decoration: none;
+}
+
+.filter-button {
+    border: none;
+    text-decoration: none;
+}
+
