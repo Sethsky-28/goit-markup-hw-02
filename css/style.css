@@ -165,29 +165,13 @@ body {
     width: 1440;
 }
 
-.filter-button-active {
-    border: none;
-    text-decoration: none;
-}
-
-.filter-button {
-    border: none;
-    text-decoration: none;
-}
-
-.filter-button-active {
+.filter-button-item {
     font font-family: 'roboto';
-    font weight: 500;
     font size: 16px;
-    line height: 1em;
+    font weight: 500;
+    line height: 1.5em;
     color: #4D5AE5;
 }
 
-.filter-button {
-    font font-family: 'roboto';
-    font weight: 500;
-    font size: 16px;
-    line height: 1em;
-    color: #4D5AE5;
-}
+
 
