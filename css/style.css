@@ -167,10 +167,11 @@ body {
 
 .filter-button-active {
     font font-family: 'roboto';
-        font size: 16px;
-        font weight: 500;
-        line height: 1.5em;
-        color: #4D5AE5;
+    font size: 16px;
+    font weight: 500;
+    line height: 1.5em;
+    color: #4D5AE5;
+    border: none;
 }
 
 .filter-button {
@@ -179,6 +180,7 @@ body {
     font weight: 500;
     line height: 1em;
     color: #4D5AE5;
+    border: none;
 }
 
 .project-item-name {
