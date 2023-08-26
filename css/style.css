@@ -172,7 +172,9 @@ body {
     line height: 1.5em;
     color: #4D5AE5;
     border: none;
+    display: inline-block;
 }
+    
 
 .filter-button {
     font font-family: 'roboto';
@@ -181,6 +183,7 @@ body {
     line height: 1em;
     color: #4D5AE5;
     border: none;
+    display: inline-block;
 }
 
 .project-item-name {
@@ -198,6 +201,8 @@ body {
     line height: 1.5em;
     color: #434455;
 }
+
+
 
 
 
