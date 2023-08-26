@@ -50,7 +50,8 @@ body {
 .address-link-email {
     text-decoration: none;
     color: #434455;
-    font family;'roboto';
+    font family;
+    'roboto';
     font size: 16px;
     font weight: 400;
     font style: normal;
@@ -60,7 +61,8 @@ body {
 .address-link-tel {
     text-decoration: none;
     color: #434455;
-    font family; 'roboto';
+    font family;
+    'roboto';
     font size: 16px;
     font weight: 400;
     font style: normal;
@@ -75,7 +77,7 @@ body {
 
 .hero-title {
     text-align: center;
-    color: rgb(255, 255, 255) ;
+    color: rgb(255, 255, 255);
     font-family: 'roboto';
     font weight: 700;
     font size: 56px;
@@ -117,7 +119,7 @@ body {
 }
 
 .services-item-image {
-    align-items:start;
+    align-items: start;
 }
 
 .team-title {
