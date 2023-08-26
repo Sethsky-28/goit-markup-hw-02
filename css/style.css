@@ -173,6 +173,7 @@ body {
     color: #4D5AE5;
     border: none;
     display: inline-block;
+    background color: #404BBF;
 }
     
 .filter-button {
@@ -183,6 +184,7 @@ body {
     color: #4D5AE5;
     border: none;
     display: inline-block;
+    background color: #F4F4FD;
 }
 
 .project-item-name {
