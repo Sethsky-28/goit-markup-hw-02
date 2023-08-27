@@ -76,8 +76,8 @@ button {
 
 .address-link {
     color: var(--slate, #434455);
-    font size: 16px;
-    line height: 1.5em;
+    font-size: 16px;
+    line-height: 1.5em;
 }
 
 .section-hero {
@@ -88,10 +88,10 @@ button {
 
 .hero-title {
     text-align: center;
-    color: rgb(255, 255, 255);
+    color: var(--white);
     font-family: 'roboto';
     font size: 56px;
-    line height: 3.15em;
+    line height: 1.07em;
 }
 
 .hero-button {
