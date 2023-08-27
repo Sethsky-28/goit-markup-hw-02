@@ -5,12 +5,60 @@
 }
 
 body {
-    font-family: 'roboto';
-    color: #2E2F42;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+address {
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    font-family: inherit;
+    outline: none;
+    border: unset;
+    cursor: pointer;
+}
+
+:root {
+    --iris: #4d5ae5;
+    --navyblue: #2e2f42;
+    --black: black;
+    --ocean: #404bbf;
+    --white: #ffffff;
+    --slate: #434455;
+    --cornflower: #e7e9fc;
+    --cloud: #f4f4fd;
+    --green: #31d0aa;
+    --lightslate: #8e8f99;
+    --navybluemodal: #2e2f42;
+    --grey: #2e2f42;
+    --dairy: #fcfcfc;
 }
 
 .iris {
-    color: #4D5AE5;
+    color: var(#4D5AE5),
 }
 
 .nav-logo {
@@ -28,21 +76,11 @@ body {
     text-decoration: none;
 }
 
-.nav-link-studio {
-    color: #4D5AE5;
+.nav-item {
+    color: var(--)
     font-family: 'roboto';
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5em;
-    text-decoration: none;
-}
-
-.nav-link-portfolio,
-.nav-link-contacts {
-    font-family: 'roboto';
-    font-size: 16px;
-    font-weight: 500;
-    color: #2E2F42;
     line-height: 1.5em;
     text-decoration: none;
 }
