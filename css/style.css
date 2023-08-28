@@ -62,10 +62,18 @@ button {
 }
 
 .nav-logo {
-    font-family: 'raleway';
-    font-weight: 800;
+    color: #2E2F42;
+    font-family: Raleway;
     font-size: 18px;
-    line-height: 1em;
+    font-style: normal;
+    font-weight: 800;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    line-height: 1.125em;
+    display: inline-flex;
+    height: 24px;
+    align-items: center;
+    flex-shrink: 0;
 }
 
 .nav-link {
