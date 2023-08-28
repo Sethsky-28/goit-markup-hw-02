@@ -211,10 +211,6 @@ button {
     text-transform: uppercase;
 }
 
-.iris {   
-    color: var(--iris, #4D5AE5);
-}
-
 .filter-button-active {
     font font-family: 'roboto';
     font size: 16px;
