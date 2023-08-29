@@ -133,6 +133,12 @@ button {
     gap: 10px;
 }
 
+.hero-button:hover {
+    border-radius: 4px;
+    background: var(--ocean);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
 .features-item-title {
     font-size: 20px;
     font-style: normal;
