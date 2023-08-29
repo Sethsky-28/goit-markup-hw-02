@@ -62,6 +62,7 @@ button {
 
 .header {
     background-color: var(--white);
+    border-bottom: var(--cornflower);
 }
 
 .iris {
@@ -69,7 +70,7 @@ button {
 }
 
 .nav-logo {
-    color: #2E2F42;
+    color: var(--navyblue);
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
@@ -86,7 +87,6 @@ button {
 .nav-link {
     color: var(--navyblue);
     line-height: 1.5em;      
-    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -98,9 +98,8 @@ button {
 }
 
 .address-link {
-    color: var(--slate, #434455);
+    color: var(--slate);
     line-height: 1.5em;
-    font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;     
@@ -108,7 +107,7 @@ button {
 }
 
 .section-hero {
-    background-color: #2E2F42;
+    background-color: var(--navyblue);
     height: 600;
     width: 1440;
 }
@@ -122,7 +121,7 @@ button {
 
 .hero-button {
     font-weight: 500;
-    color: white;
+    color: var(--white);
     font-size: 16px;
     line-height: 1.5em;
     border-radius: 4px;
@@ -184,7 +183,7 @@ button {
     font-style: normal;
     text-align: center;
     line height: 1.5em;
-    color: #2E2F42;
+    color: var(--navyblue);
     letter-spacing: 0.4px;
 }
 
@@ -205,7 +204,7 @@ button {
     align-items: center;
     gap: 32px;
     border-radius: 0px 0px 4px 4px;
-    background: var(--white, #FFF);
+    background: var(--white);
     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
@@ -219,7 +218,7 @@ button {
 }
 
 .footer {
-    background-color: #2E2F42;
+    background-color: var(--navyblue);
     height: 312;
     width: 1440;
 }
@@ -263,7 +262,7 @@ button {
     border-radius: 4px;
     border: 1px solid var(--cornflower);
     background: var(--cloud);
-    color: var(--iris)
+    color: var(--iris);
     text-align: center;
     font-family: 'roboto';
     font-size: 16px;
@@ -274,7 +273,7 @@ button {
 }
 
 .project-item-name {
-    color: var(--navyblue) 
+    color: var(--navyblue); 
     font-size: 20px;
     font-style: normal;
     line-height: 1.25em;
@@ -282,7 +281,7 @@ button {
 }
 
 .project-item-type {
-    color: var(--slate)
+    color: var(--slate);
     font-size: 16px;
     font-style: normal;
     line-height: 1em;
