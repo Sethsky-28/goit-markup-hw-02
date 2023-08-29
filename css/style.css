@@ -89,7 +89,7 @@ button {
     letter-spacing: 0.32px;
 }
 .nav-link:hover,
-.address-link {
+.address-link:hover {
     color: var(--ocean);
 }
 
