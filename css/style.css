@@ -238,9 +238,7 @@ button {
 }
 
 .filter-button-active {
-    display: inline-block;
-    padding: 12px 24px;
-    align-items: flex-start;
+    /* padding: 12px 24px;   
     border-radius: 4px;
     background: var(--ocean);
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.12), 0px 2px 1px 0px rgba(0, 0, 0, 0.08), 0px 3px 1px 0px rgba(0, 0, 0, 0.10);
@@ -251,25 +249,31 @@ button {
     font-style: normal;
     font-weight: 500;
     line-height: 1.5em;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.64px; */
 }
     
-.filter-button {
-    display: inline-block;
-    padding: 12px 24px;
-    justify-content: center;
-    align-items: center;
+.filter-button {    
+    padding: 12px 24px;    
     border-radius: 4px;
     border: 1px solid var(--cornflower);
     background-color: var(--cloud);
-    color: var(--iris);
-    text-align: center;
+    color: var(--iris);    
     font-family: 'roboto';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
     line-height: 1.5em;
     letter-spacing: 0.64px;
+}
+
+.filter-button:hover {
+    background: var(--ocean);
+    color: var(--white);
+    border-color: var(--ocean);
+    box-shadow: 
+    0px 2px 2px 0px rgba(0, 0, 0, 0.12), 
+    0px 2px 1px 0px rgba(0, 0, 0, 0.08), 
+    0px 3px 1px 0px rgba(0, 0, 0, 0.10);
 }
 
 .project-item-name {
