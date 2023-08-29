@@ -60,6 +60,10 @@ button {
     --dairy: #fcfcfc;
 }
 
+.header {
+    background-color: var(--white);
+}
+
 .iris {
     color: var(--iris);
 }
